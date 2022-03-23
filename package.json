@@ -1,6 +1,6 @@
 {
-  "name": "「 𝗞𝗮𝗻𝗻𝗮 𝗕𝗢𝗧 」",
-  "version": "1.5.0",
+  "name": " KannaBOT",
+  "version": "3.5.1",
   "description": "Rpg Bot Whatsapp\nʙʏ : ❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶",
   "depecrated": false,
   "main": "index.js",
@@ -21,7 +21,7 @@
   ],
   "homepage": "https://github.com/Kannachann/kanna-wabot",
   "author": {
-    "name": "❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶"
+    "name": "Kannachann"
   },
   "repository": {
     "type": "git",
